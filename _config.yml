@@ -21,10 +21,10 @@ repository               : "mathamphetamine/info"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-pic.png"
   name             : "Aryan Gupta"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Math undergrad"
   location         : "Mumbai, India"
   employer         : "IIT Bombay"
   uri              : # URL
