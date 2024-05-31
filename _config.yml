@@ -12,7 +12,7 @@ title                    : "Aryan's Homepage"
 title_separator          : "-"
 name                     : &name "Aryan Gupta"
 description              : &description "personal description"
-url                      : https://mathamphetamine.github.io/info/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mathamphetamine.github.io/info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mathamphetamine/info"
 
@@ -121,7 +121,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
